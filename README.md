@@ -1,4 +1,4 @@
-# Diseño Mecatrónico
+﻿# Diseño Mecatrónico
 * Crear un Repositorio
 * Clonar un repositorio
 * Merge a Remoto
@@ -10,3 +10,6 @@
 * Nombre: Pedro Galvez
 * Edad: 29 
 * Teléfono: 5512242480
+* Ciudad: México
+* Colonia: Roma
+* Delegación: Cuauhtemoc
