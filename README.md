@@ -7,6 +7,6 @@
 
 # Información de Contacto
  
-Nombre: 
-Edad:
-Teléfono
+* Nombre: 
+* Edad:
+* Teléfono
