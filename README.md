@@ -7,9 +7,9 @@
 
 # Información de Contacto
  
-* Nombre: Pedro Galvez
+* Nombre: Galvez Pedro
 * Edad: 29 
 * Teléfono: 5512242480
-* Ciudad: México
-* Colonia: Roma
-* Delegación: Cuauhtemoc
+* Ciudad: Ecatepec
+* Colonia: Colonia
+* Delegación: No hay Delegaciones
