@@ -7,6 +7,6 @@
 
 # Información de Contacto
  
-* Nombre: 
-* Edad:
-* Teléfono
+* Nombre: Pedro Galvez
+* Edad: 29 
+* Teléfono: 5512242480
