@@ -1,5 +1,5 @@
 ﻿# Diseño Mecatrónico
-* Crear un Repositorio
+* Crear un Repositorio (ya esta)
 * Clonar un repositorio
 * Merge a Remoto
 * Merge a branch
