@@ -12,4 +12,4 @@
 * Teléfono: 5512242480
 * Ciudad: Ecatepec
 * Colonia: Colonia
-* Delegación: No hay Delegaciones
+* Delegación: No hay Delegacionesa
